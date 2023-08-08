@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1691428591,,"wq"
+|2,0,1691504349,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,261 @@
 # Registers:
 
 # File marks:
-'0  3  11  ~/walmart.java
-|4,48,3,11,1691428591,"~/walmart.java"
-'1  4  0  ~/abb/hello.java
-|4,49,4,0,1691428508,"~/abb/hello.java"
+'0  2  10  ~/techno.java
+|4,48,2,10,1691504349,"~/techno.java"
+'1  4  5  ~/add/hello.java
+|4,49,4,5,1691504297,"~/add/hello.java"
+'2  5  5  ~/tree.java
+|4,50,5,5,1691502151,"~/tree.java"
+'3  5  5  ~/tree.java
+|4,51,5,5,1691430616,"~/tree.java"
+'4  3  8  ~/abb/.gitignore
+|4,52,3,8,1691429547,"~/abb/.gitignore"
+'5  4  5  ~/abb/nvidea.java
+|4,53,4,5,1691429436,"~/abb/nvidea.java"
+'6  3  11  ~/walmart.java
+|4,54,3,11,1691428591,"~/walmart.java"
+'7  4  0  ~/abb/hello.java
+|4,55,4,0,1691428508,"~/abb/hello.java"
 
 # Jumplist (newest first):
--'  3  11  ~/walmart.java
-|4,39,3,11,1691428591,"~/walmart.java"
--'  1  0  ~/walmart.java
-|4,39,1,0,1691428558,"~/walmart.java"
--'  4  0  ~/abb/hello.java
-|4,39,4,0,1691428508,"~/abb/hello.java"
--'  4  0  ~/abb/hello.java
-|4,39,4,0,1691428508,"~/abb/hello.java"
--'  1  0  ~/abb/hello.java
-|4,39,1,0,1691428447,"~/abb/hello.java"
--'  1  0  ~/abb/hello.java
-|4,39,1,0,1691428447,"~/abb/hello.java"
+-'  2  10  ~/techno.java
+|4,39,2,10,1691504349,"~/techno.java"
+-'  1  0  ~/techno.java
+|4,39,1,0,1691504321,"~/techno.java"
+-'  4  5  ~/add/hello.java
+|4,39,4,5,1691504297,"~/add/hello.java"
+-'  4  5  ~/add/hello.java
+|4,39,4,5,1691504297,"~/add/hello.java"
+-'  1  0  ~/add/hello.java
+|4,39,1,0,1691504274,"~/add/hello.java"
+-'  1  0  ~/add/hello.java
+|4,39,1,0,1691504274,"~/add/hello.java"
+-'  5  5  ~/tree.java
+|4,39,5,5,1691502151,"~/tree.java"
+-'  5  5  ~/tree.java
+|4,39,5,5,1691502151,"~/tree.java"
+-'  5  5  ~/tree.java
+|4,39,5,5,1691502151,"~/tree.java"
+-'  5  5  ~/tree.java
+|4,39,5,5,1691502151,"~/tree.java"
+-'  5  5  ~/tree.java
+|4,39,5,5,1691430616,"~/tree.java"
+-'  5  5  ~/tree.java
+|4,39,5,5,1691430616,"~/tree.java"
+-'  5  5  ~/tree.java
+|4,39,5,5,1691430616,"~/tree.java"
+-'  5  5  ~/tree.java
+|4,39,5,5,1691430616,"~/tree.java"
+-'  1  0  ~/tree.java
+|4,39,1,0,1691430592,"~/tree.java"
+-'  1  0  ~/tree.java
+|4,39,1,0,1691430592,"~/tree.java"
+-'  1  0  ~/tree.java
+|4,39,1,0,1691430592,"~/tree.java"
+-'  1  0  ~/tree.java
+|4,39,1,0,1691430592,"~/tree.java"
+-'  1  0  ~/tree.java
+|4,39,1,0,1691430592,"~/tree.java"
+-'  1  0  ~/tree.java
+|4,39,1,0,1691430592,"~/tree.java"
+-'  1  0  ~/tree.java
+|4,39,1,0,1691430592,"~/tree.java"
+-'  1  0  ~/tree.java
+|4,39,1,0,1691430592,"~/tree.java"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  3  8  ~/abb/.gitignore
+|4,39,3,8,1691429547,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  1  0  ~/abb/.gitignore
+|4,39,1,0,1691429520,"~/abb/.gitignore"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  4  5  ~/abb/nvidea.java
+|4,39,4,5,1691429436,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
+-'  1  0  ~/abb/nvidea.java
+|4,39,1,0,1691429418,"~/abb/nvidea.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/techno.java
+	*	1691504347	0
+	"	2	10
+	^	2	11
+	.	2	10
+	+	2	10
+
+> ~/add/hello.java
+	*	1691504293	0
+	"	4	5
+	^	4	6
+	.	4	5
+	+	4	5
+
+> ~/tree.java
+	*	1691502148	0
+	"	5	5
+	^	5	6
+	.	5	5
+	+	5	5
+
+> ~/abb/.gitignore
+	*	1691429544	0
+	"	3	8
+	^	3	9
+	.	3	8
+	+	3	8
+
+> ~/abb/nvidea.java
+	*	1691429432	0
+	"	4	5
+	^	4	6
+	.	4	5
+	+	4	5
 
 > ~/walmart.java
 	*	1691428588	0
